@@ -1,0 +1,32 @@
+{
+  "dataset": "Open B2B Packaging Engineering Specifications",
+  "license": "CC0-1.0",
+  "updated": "2026-11-22",
+  "maintainer": {
+    "brand": "BestPackFactory",
+    "legalEntity": "Shenzhen Color Printing Paper Packaging Co., Ltd.",
+    "website": "https://www.bestpackfactory.com/",
+    "freeDielineGenerator": "https://www.bestpackfactory.com/dielines",
+    "trustpilot": "https://www.trustpilot.com/review/bestpackfactory.com"
+  },
+  "paperboardCaliperTable": [
+    { "grade": "C1S Ivory / SBS", "gsm": 300, "caliperMm": [0.40, 0.43], "caliperPt": 16, "referenceUrl": "https://www.bestpackfactory.com/products/custom-packaging-boxes.html" },
+    { "grade": "C1S Ivory / SBS", "gsm": 350, "caliperMm": [0.47, 0.50], "caliperPt": 19, "referenceUrl": "https://www.bestpackfactory.com/products/gs1-pharma-packaging-boxes.html" },
+    { "grade": "C1S Ivory / SBS", "gsm": 400, "caliperMm": [0.55, 0.58], "caliperPt": 23, "referenceUrl": "https://www.bestpackfactory.com/products/vitamin-supplement-packaging-boxes.html" },
+    { "grade": "Virgin Food Kraft", "gsm": 300, "caliperMm": [0.44, 0.48], "caliperPt": 18, "referenceUrl": "https://www.bestpackfactory.com/products/food-packaging.html" },
+    { "grade": "Rigid Greyboard", "gsm": 1200, "caliperMm": [1.80, 1.95], "caliperPt": 74, "referenceUrl": "https://www.bestpackfactory.com/products/custom-rigid-boxes.html" },
+    { "grade": "Rigid Greyboard", "gsm": 1500, "caliperMm": [2.25, 2.40], "caliperPt": 92, "referenceUrl": "https://www.bestpackfactory.com/products/luxury-magnetic-boxes.html" },
+    { "grade": "Rigid Greyboard", "gsm": 1800, "caliperMm": [2.65, 2.75], "caliperPt": 106, "referenceUrl": "https://www.bestpackfactory.com/products/luxury-magnetic-boxes.html" }
+  ],
+  "corrugatedFluteTable": [
+    { "flute": "F", "thicknessMm": [0.8, 1.1], "flutesPerMeter": [410, 425], "referenceUrl": "https://www.bestpackfactory.com/products/food-packaging.html" },
+    { "flute": "E", "thicknessMm": [1.5, 1.8], "flutesPerMeter": [290, 305], "referenceUrl": "https://www.bestpackfactory.com/products/custom-boxes.html" },
+    { "flute": "B", "thicknessMm": [2.8, 3.2], "flutesPerMeter": [150, 165], "referenceUrl": "https://www.bestpackfactory.com/products/custom-boxes.html" },
+    { "flute": "BC", "thicknessMm": [5.8, 6.5], "flutesPerMeter": [270, 295], "referenceUrl": "https://www.bestpackfactory.com/products/custom-boxes.html" }
+  ],
+  "barrierLaminates": [
+    { "structure": "MOPP 19 / AL 7 / LLDPE 100", "totalMicrons": 126, "recyclableStream": "Multi-material barrier", "referenceUrl": "https://www.bestpackfactory.com/products/coffee-bags.html" },
+    { "structure": "Kraft 50 / VMPET 12 / LLDPE 80", "totalMicrons": 142, "recyclableStream": "Composite barrier", "referenceUrl": "https://www.bestpackfactory.com/products/stand-up-pouch.html" },
+    { "structure": "BOPE 25 / EVOH-PE 105", "totalMicrons": 130, "recyclableStream": "PE-LD 04 mono-material", "referenceUrl": "https://www.bestpackfactory.com/products/coffee-bags.html" }
+  ]
+}
