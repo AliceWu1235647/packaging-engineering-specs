@@ -1,0 +1,24 @@
+{
+  "name": "packaging-engineering-specs",
+  "version": "1.0.1",
+  "description": "Open B2B packaging engineering tables: paperboard GSM-to-caliper (mm/PT), corrugated flute ECT, barrier films, EU 97/129/EC codes & free 1:1 CAD dielines.",
+  "homepage": "https://www.bestpackfactory.com/dielines",
+  "license": "CC0-1.0",
+  "keywords": [
+    "packaging",
+    "dieline",
+    "cad",
+    "paperboard",
+    "corrugated",
+    "b2b",
+    "gs1"
+  ],
+  "author": {
+    "name": "BestPackFactory (Shenzhen Color Printing Paper Packaging Co., Ltd.)",
+    "url": "https://www.bestpackfactory.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AliceWu1235647/packaging-engineering-specs.git"
+  }
+}
